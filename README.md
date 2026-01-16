@@ -1,6 +1,12 @@
-# Enterprise RAG Knowledge Base
+# 🎯 Enterprise RAG Knowledge Base
 
-A production-ready Retrieval-Augmented Generation (RAG) system built with **LangChain**, **Qdrant**, **Ragas**, and **FastAPI**. This system implements hybrid search (sparse BM25 + dense embeddings) for precise document retrieval and includes comprehensive evaluation metrics.
+![Python 3.9+](https://img.shields.io/badge/python-3.9+-blue.svg)
+![License MIT](https://img.shields.io/badge/license-MIT-green.svg)
+![Docker](https://img.shields.io/badge/docker-supported-blue.svg)
+![FastAPI](https://img.shields.io/badge/FastAPI-0.109+-005571?logo=fastapi)
+![LangChain](https://img.shields.io/badge/LangChain-0.1+-green?logo=langchain)
+
+A production-ready Retrieval-Augmented Generation (RAG) system built with **LangChain**, **Qdrant**, **Ragas**, and **FastAPI**. This system implements **hybrid search** (sparse BM25 + dense embeddings) for precise document retrieval and includes comprehensive evaluation metrics.
 
 ## 🚀 Features
 
@@ -28,6 +34,7 @@ A production-ready Retrieval-Augmented Generation (RAG) system built with **Lang
 ### 1. Clone and Setup
 
 ```bash
+git clone https://github.com/rjkalash/5EnterpriseRag.git
 cd enterprise-rag-kb
 python -m venv venv
 
@@ -370,6 +377,3 @@ For questions or support, please open an issue on GitHub.
 ---
 
 **Built with ❤️ for production RAG systems**
-"# 5EnterpriseRag" 
-#   5 E n t e r p r i s e R a g  
- 
