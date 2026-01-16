@@ -370,10 +370,16 @@ MIT License
 - **FastAPI**: Web framework
 - **LangServe**: API deployment
 
+## ✍️ Author
+
+**Raj Kalash Tiwari**
+- [GitHub Profile](https://github.com/rjkalash)
+- [Email](mailto:rajkalashtiwari888@gmail.com)
+
 ## 📧 Contact
 
 For questions or support, please open an issue on GitHub.
 
 ---
 
-**Built with ❤️ for production RAG systems**
+**Built with ❤️ for Enterprise RAG Systems**
